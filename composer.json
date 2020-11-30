@@ -22,7 +22,7 @@
     "maglnet/composer-require-checker": "^2.0",
     "nikic/php-parser": "^4.2",
     "phpmd/phpmd": "^2.7",
-    "phpro/grumphp": "^0.19.0",
+    "phpro/grumphp": "^1.2.0",
     "phpstan/phpstan": "^0.12.3",
     "povils/phpmnd": "^2.1",
     "sebastian/phpcpd": "^5.0",
